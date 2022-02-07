@@ -1,4 +1,4 @@
-- 👋 Olá me sou Guilherme Mendes Faustino @GuilhermeFaustino
+Olá me sou Guilherme Mendes Faustino @GuilhermeFaustino
 
 <div align="center">
   <a href="https://github.com/GuilhermeFaustino">
